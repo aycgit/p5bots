@@ -34,7 +34,8 @@
     "nanotimer": "^0.3.10",
     "serialport": "^4.0.7",
     "socket.io": "^1.3.6"
+    "etherport": "^0.2.0"
   },
-  "author": "Sarah Groff-Palermo",
+  "author": "Sarah Groff-Palermo and the github community",
   "license": "LGPL-2.1"
 }
